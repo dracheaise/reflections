@@ -1,0 +1,4 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+- To create a first commit for my repository.
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+- You can't do any changes in the stagin area. It provides high security and helps fast editing.

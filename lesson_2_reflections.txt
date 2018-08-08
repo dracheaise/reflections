@@ -4,3 +4,9 @@
 - You can't do any changes in the stagin area. It provides high security and helps fast editing.
 3) How can you use the staging area to make sure you have one commit per logical change?
 - You can specify which changes should be put in which commit.
+ 4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ - It would help seperate different versions of my code.
+ 5) How do the diagrams help you visualize the branch structure?
+ - It helps me summarize the project I'm working on easier.
+ 5) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+ - It becomes one branch, for easy understanding.

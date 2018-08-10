@@ -10,3 +10,6 @@
  - It helps me summarize the project I'm working on easier.
  5) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
  - It becomes one branch, for easy understanding.
+ 6) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ - Auto merge: faster
+ - Manual merge: good understanding of codes

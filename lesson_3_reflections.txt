@@ -4,4 +4,7 @@
 - So that it has less commits.
 3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
 - 
-4) 
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+- For easy access and up-to-date codes
+5)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- GitHub is more convenient and less time-consuming, and you don't have to work at the same time to collaborate.

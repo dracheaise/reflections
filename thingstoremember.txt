@@ -1,0 +1,36 @@
+create command: alias subl="E:/sublime/Sublime\ Text\ 3/subl.exe">> ~/.bashrc
+
+open log: git log
+
+compare 2 ver: git diff (ver1) (ver2)
+compare working directory - staging area: git diff
+compare staging area - repository : git diff --staged
+compare a commit with parent: git show [id]
+
+checkout old ver: git checkout (id)
+clone repository: git clone (URL)
+
+show hidden files: ls -a
+1.git init
+show status: git status
+2.git config user.name "someone"
+3.git config user.email "someone@someplace.com"
+4.git add *
+5.git commit -m "some init msg"
+
+check branch: git branch
+create branch: git branch [name]          ] -> git checkout -b [name]
+switch checkout: git checkout [name]      ]
+visualize the different branches in commit history: git log --graph --oneline [name1] [name2]
+merge 2 branches: git merge [1] [2]
+delete branch: git branch -d [name]
+update the remote branch, leaving the local branch alone: git fetch
+
+run code: bash [name].sh [URL to fork]
+stop the merge: git merge --abort
+
+create remote: git remote add (branch name) (URL).git
+check remote: git remote
+verify correct URL added: git remote -v
+send changes to remote: git push (remote to send changes to/branch) (name of local branch/master)
+get commit: git pull (remote to pull) (name of loval branch)
